@@ -54,11 +54,11 @@
 
 ###
 <p align="left">
-💡 Crafting applications that transform business processes and drive growth<br>
-🛠️ Daily coding in JavaScript & PHP, managing databases to deliver customer insights<br>
-📈 From CRM systems to marketing automation - building tools that teams love to use<br>
-🎯 Always focused on creating efficient, scalable solutions for real business challenges<br>
-🎨 UX/UI enthusiast ensuring great user experiences<br>
-🚀 SEO-conscious developer optimizing for performance and visibility<br>
-🤖 AI enthusiast leveraging cutting-edge tools to enhance development workflows
+🛠️ Web application development and maintenance, handling both Front-End and Back-End with a variety of tools.
+📈 Actively involved in process improvement and application performance optimization.
+💡 Close collaboration with development teams to translate needs into technical features.
+🎯 Full software lifecycle management: from concept to deployment and support.
+🎨 UX/UI enthusiast, ensuring intuitive and engaging user experiences.
+🚀 SEO-conscious developer, optimizing application performance and visibility.
+🤖 AI enthusiast, leveraging cutting-edge tools to enhance development workflows.
 </p>
