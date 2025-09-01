@@ -54,11 +54,11 @@
 
 ###
 <p align="left">
-🛠️ Web application development and maintenance, handling both Front-End and Back-End with a variety of tools.
-📈 Actively involved in process improvement and application performance optimization.
-💡 Close collaboration with development teams to translate needs into technical features.
-🎯 Full software lifecycle management: from concept to deployment and support.
-🎨 UX/UI enthusiast, ensuring intuitive and engaging user experiences.
-🚀 SEO-conscious developer, optimizing application performance and visibility.
+🛠️ Web application development and maintenance, handling both Front-End and Back-End with a variety of tools.<br>
+📈 Actively involved in process improvement and application performance optimization.<br>
+💡 Close collaboration with development teams to translate needs into technical features.<br>
+🎯 Full software lifecycle management: from concept to deployment and support.<br>
+🎨 UX/UI enthusiast, ensuring intuitive and engaging user experiences.<br>
+🚀 SEO-conscious developer, optimizing application performance and visibility.<br>
 🤖 AI enthusiast, leveraging cutting-edge tools to enhance development workflows.
 </p>
