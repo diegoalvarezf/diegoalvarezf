@@ -9,14 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
-
+## 🛠️ Tools I use in my daily work
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   <img width="12" />
@@ -26,25 +21,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
 </div>
-<br>
+
+###
+
+## 🤖 AI-Powered Development
 <div align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" height="30" alt="chatgpt logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white" height="30" alt="claude logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white" height="30" alt="github copilot logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" height="30" alt="gemini logo" />
 </div>
 
 ###
 
+## 📫 Connect with me
 <div align="left">
-  <a href="https://instagram.com/vigxxs._">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:diegoalvarezfrancos@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://linkedin.com/in/dalvarfr">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+<a href="https://instagram.com/vigxxs._"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
+<a href="mailto:diegoalvarezfrancos@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+<a href="https://linkedin.com/in/dalvarfr"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
 </div>
 
 
@@ -62,5 +59,6 @@
 📈 From CRM systems to marketing automation - building tools that teams love to use<br>
 🎯 Always focused on creating efficient, scalable solutions for real business challenges<br>
 🎨 UX/UI enthusiast ensuring great user experiences<br>
-🚀 SEO-conscious developer optimizing for performance and visibility
+🚀 SEO-conscious developer optimizing for performance and visibility<br>
+🤖 AI enthusiast leveraging cutting-edge tools to enhance development workflows
 </p>
