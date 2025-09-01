@@ -37,6 +37,9 @@
 
 ###
 
+## ⚡ LeetCode Stats
+<img src="https://leetcard.jacoblin.cool/diegoalvarezf?theme=dark&font=Karma" alt="LeetCode Stats"/>
+
 ## 📫 Connect with me
 <div align="left">
 <a href="https://instagram.com/vigxxs._"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
