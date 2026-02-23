@@ -3,8 +3,6 @@
 # Hey, I'm Diego Álvarez 👋
 ### Full Stack Developer · Spain 🇪🇸
 
-*Crafting tools that transform how businesses operate — from CRM systems to marketing automation*
-
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:)
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com)
@@ -57,8 +55,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoalvarezf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalvarezf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegoalvarezf&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegoalvarezf&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegoalvarezf&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -75,6 +74,3 @@
 
 ---
 
-<div align="center">
-  <i>💡 "Building efficient, scalable solutions for real business challenges — one commit at a time"</i>
-</div>
