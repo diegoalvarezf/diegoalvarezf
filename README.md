@@ -1,58 +1,80 @@
-<h2 align="left">Hi 👋! My name is Diego Álvarez and I'm a Full Stack Developer, from Spain</h2>
+<div align="center">
 
-## 🛠 Tech Stack
+# Hey, I'm Diego Álvarez 👋
+### Full Stack Developer · Spain 🇪🇸
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+*Crafting tools that transform how businesses operate — from CRM systems to marketing automation*
 
-###
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
-</div>
-<br>
-<div align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" height="30" alt="chatgpt logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white" height="30" alt="claude logo" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 🧑‍💻 About Me
+
+- 💼 Full Stack Developer working daily with **JavaScript & PHP** to build internal business apps
+- 🏢 Experience in **telecommunications systems** — managing complex workflows, migrations & integrations
+- 🗄️ Strong background in **MySQL** database design, optimization and administration
+- 🎨 **UX/UI enthusiast** — I care deeply about making interfaces people actually enjoy using
+- 🚀 SEO-conscious and performance-driven developer
+- 🤖 AI-augmented developer — integrating **Claude & ChatGPT** into daily workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### AI Tools
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoalvarezf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalvarezf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoalvarezf&theme=tokyonight&hide_border=true" />
+</div>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/diegoalvarezf/diegoalvarezf/output/github-snake-dark.svg" alt="Snake animation" />
+## 🐍 Contribution Graph
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/diegoalvarezf/diegoalvarezf/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
-###
-<p align="left">
-💡 Crafting applications that transform business processes and drive growth<br>
-🛠️ Daily coding in JavaScript & PHP, managing databases to deliver customer insights<br>
-📈 From CRM systems to marketing automation - building tools that teams love to use<br>
-🎯 Always focused on creating efficient, scalable solutions for real business challenges<br>
-🎨 UX/UI enthusiast ensuring great user experiences<br>
-🚀 SEO-conscious developer optimizing for performance and visibility
-</p>
+---
+
+<div align="center">
+  <i>💡 "Building efficient, scalable solutions for real business challenges — one commit at a time"</i>
+</div>
