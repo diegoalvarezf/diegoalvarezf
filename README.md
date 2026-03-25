@@ -1,7 +1,7 @@
 Hey, I'm Diego.
 
-Software developer. I spend a lot of time building stuff I wish already existed — lately that's been tools around AI workflows and developer productivity.
+I write software. Most of what I build starts with "I can't believe this doesn't exist yet" and ends with a GitHub repo nobody asked for but a few people end up using.
 
-Right now I'm working on [mcp-registry](https://github.com/diegoalvarezf/mcp-registry), a place to discover and share MCP servers, and a [usage tracker for Claude on Windows](https://github.com/diegoalvarezf/claude-usage-tracker-windows) because I kept losing track of what I was spending.
+Lately I've been deep into AI tooling — building [mcp-registry](https://github.com/diegoalvarezf/mcp-registry) so developers can actually find and share MCP servers without losing their minds, and a [Claude usage tracker for Windows](https://github.com/diegoalvarezf/claude-usage-tracker-windows) because my wallet needed visibility.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/dalvarfr/) if you want to connect.
+If something I've built is useful to you, or you just want to talk shop — [LinkedIn](https://www.linkedin.com/in/dalvarfr/).
