@@ -1,8 +1,7 @@
-## Hi, I'm Diego 👋
+Hey, I'm Diego.
 
-I'm a software developer who enjoys building things and tinkering with new tech.
+Software developer. I spend a lot of time building stuff I wish already existed — lately that's been tools around AI workflows and developer productivity.
 
-- 🔭 Currently working on [mcp-registry](https://github.com/diegoalvarezf/mcp-registry) — a registry and hub for MCP servers
-- 🛠️ Also maintaining [claude-usage-tracker](https://github.com/diegoalvarezf/claude-usage-tracker-windows) — a usage tracker for Claude on Windows
-- 💬 Feel free to reach out if you want to talk about anything I've built
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/dalvarfr/)
+Right now I'm working on [mcp-registry](https://github.com/diegoalvarezf/mcp-registry), a place to discover and share MCP servers, and a [usage tracker for Claude on Windows](https://github.com/diegoalvarezf/claude-usage-tracker-windows) because I kept losing track of what I was spending.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/dalvarfr/) if you want to connect.
