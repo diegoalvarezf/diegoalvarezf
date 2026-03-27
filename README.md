@@ -1,9 +1,5 @@
-Hey, I'm Diego 👋
+The deployment is currently unavailable
 
-Software developer. I like building things and learning along the way.
+DEPLOYMENT_PAUSED
 
-Lately I've been working on [mcp-registry](https://github.com/diegoalvarezf/mcp-registry), a place to discover and share MCP servers, and a [Claude usage tracker for Windows](https://github.com/diegoalvarezf/claude-usage-tracker-windows).
-
-If you want to connect → [LinkedIn](https://www.linkedin.com/in/dalvarfr/)
-
-Work account → [dalvarfr](https://github.com/dalvarfr)
+sfo1::shcrj-1774579842227-cca1123a8133
