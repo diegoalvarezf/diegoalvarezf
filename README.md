@@ -1,6 +1,6 @@
 ### Hey, I'm Diego 👋
 
-Software developer. I like building things and learning along the way — lately mostly tools that make AI coding agents faster, cheaper and safer to use.
+Software Developer
 
 #### 🛠️ What I've been building
 
