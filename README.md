@@ -1,9 +1,17 @@
-Hey, I'm Diego 👋
+### Hey, I'm Diego 👋
 
-Software developer. I like building things and learning along the way.
+Software developer. I like building things and learning along the way — lately mostly tools that make AI coding agents faster, cheaper and safer to use.
 
-Lately I've been working on [codestack](https://github.com/diegoalvarezf/mcp-registry), a place to discover and share MCP servers, and a [Claude usage tracker for Windows](https://github.com/diegoalvarezf/claude-usage-tracker-windows).
+#### 🛠️ What I've been building
 
-If you want to connect → [LinkedIn](https://www.linkedin.com/in/dalvarfr/)
+- [**context-pilot**](https://github.com/diegoalvarezf/context-pilot) — tells an AI agent which other files usually change when it touches one, right as it touches it. Ships as a Claude Code plugin, 100% local.
+- [**docdiet**](https://github.com/diegoalvarezf/docdiet) — makes Claude Code read PDFs as Markdown, using less than half the tokens.
+- **APEX** — an iPhone app to understand how I recover between workouts: Strava + HealthKit + an AI coach built on Claude. My Master's thesis.
+- **Shadespace** — turns the MacBook's notch into a small dynamic island, with a pixel bot that keeps an eye on your AI agents.
 
-Work account → [dalvarfr](https://github.com/dalvarfr)
+More on my portfolio → [diegoalvarezf.dev](https://diegoalvarezf.dev)
+
+#### 📫 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dalvarfr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalvarfr/)
+[![Work account](https://img.shields.io/badge/Work_account-dalvarfr-181717?style=flat&logo=github&logoColor=white)](https://github.com/dalvarfr)
